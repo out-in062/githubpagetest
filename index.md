@@ -1,6 +1,6 @@
 # リンクの挿入
 
-[second.md](https://out-in062.github.io/githubpagetest2/)
+[second.md](second.md)
 
 # 改行されない場合の例
 
