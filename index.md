@@ -1,6 +1,6 @@
 # リンクの挿入
 
-[second.md](second.md)
+[second.md](./second.md)
 
 # 改行されない場合の例
 
